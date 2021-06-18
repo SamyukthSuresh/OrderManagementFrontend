@@ -1,0 +1,4 @@
+.main {
+    background: url("../assets/landing_page.jpg");
+    position: absolute;
+    z-index: -1;}

@@ -1,0 +1,4 @@
+.picture{
+    background: url("../assets/double-bubble.png");
+    position: absolute;
+    z-index: -1;}
